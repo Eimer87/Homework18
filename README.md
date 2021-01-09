@@ -1,4 +1,4 @@
-# Unit 18 PWA Homework: Budget Trackers
+# Unit 18 Homework: Budget Trackers
 
 * Using a previously created Budget Tracker application, a user is able to update information while online/offline. Updated application has offline access and functionality.
 
