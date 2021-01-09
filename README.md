@@ -1,4 +1,4 @@
-# Unit 18 PWA Homework: Online/Offline Budget Trackers
+# Unit 18 PWA Homework: Budget Trackers
 
 * Using a previously created Budget Tracker application, a user is able to update information while online/offline. Updated application has offline access and functionality.
 
@@ -18,3 +18,4 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## Deployed Application
 
+https://hw18budgettracker.herokuapp.com/
